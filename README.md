@@ -13,3 +13,7 @@ This experiment explores how the number of training samples affects model perfor
 This experiment evaluates how well all-in-one and stage-specialized models perform throughout all construction stages. we adopted the models trained with different data compositions (all-in-one and 13 stage-specialized datasets) and quantities (2,000 to 10,000) from Experiment #2, evaluating each model’s performance across all 13 test stages.
 
 📥 Download Experiment #3 Results (.xlsx)
+
+## 📌 Notes
+- These experiments focus on worker detection, a critical task in construction monitoring.
+- YOLOv8 was used for all experiments, with consistent hyperparameters and training strategies.

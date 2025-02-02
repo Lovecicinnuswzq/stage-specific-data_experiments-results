@@ -6,6 +6,7 @@ This experiment examines whether all-in-one dataset (equally combining images fr
 
 ## Experiment #2: Investigating the effects of dataset size on model performance
 This experiment explores how the number of training samples affects model performance. We train models using 2,000 to 40,000 instances of all-in-one datasets and 2,000 to 10,000 instances of stage-specialized datasets. The all-in-one trained model was evaluated across all the 13 test stages, while each stage-specialized trained model was evaluated on the corresponding test stage that matched the stage of the training data.
+
 📥 Download Experiment #2 Results (.xlsx)
 
 ## Experiment #3: Assessing the robustness of all-in-one and stage-specialized models throughout the project lifecycle
